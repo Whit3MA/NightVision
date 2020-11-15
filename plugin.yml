@@ -1,8 +1,7 @@
 name: NightVisionUI
 version: 1.0
 main: Effect\Main
-author: TheOriginDeveloppement
-website: https://github.com/TheOriginDeveloppement
+author: Whit3
 api: 3.0.0
 
 commands: 
