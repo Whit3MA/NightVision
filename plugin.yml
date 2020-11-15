@@ -1,0 +1,10 @@
+name: NightVisionUI
+version: 1.0
+main: Effect\Main
+author: TheOriginDeveloppement
+website: https://github.com/TheOriginDeveloppement
+api: 3.0.0
+
+commands: 
+  nv:
+   description: Menu NightVision
